@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "rx",
+            "algo": null,
+            "url": "randomxmonero.eu-west.nicehash.com:3380",
+            "user": "3La4JpkziHvGtgzYghmpRCbhcR2U5FnSLn",
+            "pass": "",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
