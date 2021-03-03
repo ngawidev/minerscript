@@ -6,7 +6,7 @@
     "pools": [
         {
             "coin": null,
-            "algo": null,
+            "algo": "rx",
             "url": "xmr.pool.minergate.com:45700",
             "user": "hack.hacker25@gmail.com",
             "pass": "",
