@@ -11,7 +11,7 @@ sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-de
 printf "${GREEN}\nSetup Complete " >&2 ||
 printf "${RED}\nError Occured " >&2
 
-printf "${GREEN}Mining Berjalan${NC}" >&2
+printf "${GREEN}\nMining Berjalan${NC}" >&2
 {
 ./xmrig -a rx/0 -o monero.herominers.com:10191 -u 433CYoDYyqAXvXd66gamBU6g2EttGeNp1ekdwhWqAM2jRjVXUSYA4gHcS8bYdE3c4y7DJ4cZpKaFP89697v1Gf4uCphXMzG -k --tls -p wk1
-}&> /dev/null
+}&>
